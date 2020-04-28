@@ -1,165 +1,41 @@
 [
-  {
-    "categoryid": 1,
-    "name": "pui"
-  },
-  {
-    "categoryid": 1,
-    "name": "porc"
-  },
-  {
-    "categoryid": 1,
-    "name": "miel"
-  },
-  {
-    "categoryid": 1,
-    "name": "vita"
-  },
-  
-  
-  
-  {
-    "categoryid": 2,
-    "name": "cartofi"
-  },
-  {
-    "categoryid": 2,
-    "name": "rosii"
-  },
-   {
-    "categoryid": 2,
-    "name": "castraveti"
-  },
-  {
-    "categoryid": 2,
-    "name": "broccoli"
-  },
-  {
-    "categoryid": 2,
-    "name": "conopida"
-  },
-   {
-    "categoryid": 2,
-    "name": "salata"
-  },
-  {
-    "categoryid": 2,
-    "name": "varza"
-  },
-   {
-    "categoryid": 2,
-    "name": "ardei"
-  },
-  {
-    "categoryid": 2,
-    "name": "vinete"
-  },
-  {
-    "categoryid": 2,
-    "name": "fasole"
-  },
-   {
-    "categoryid": 2,
-    "name": "mazare"
-  },
-   {
-    "categoryid": 2,
-    "name": "ceapa"
-  },
-  {
-    "categoryid": 2,
-    "name": "telina"
-  },
-  {
-    "categoryid": 2,
-    "name": "usturoi"
-  },
-   {
-    "categoryid": 2,
-    "name": "morcov"
-  },
-   {
-    "categoryid": 2,
-    "name": "ridiche"
-  },
-  {
-    "categoryid": 2,
-    "name": "marar"
-  },
-  {
-    "categoryid": 2,
-    "name": "patrunjel"
-  },
-   {
-    "categoryid": 2,
-    "name": "leustean"
-  },
-  
-  
-  
-  {
-    "categoryid": 3,
-    "name": "ananas"
-  },
-  {
-    "categoryid": 3,
-    "name": "afine"
-  },
-   {
-    "categoryid": 3,
-    "name": "banane"
-  },
-  {
-    "categoryid": 3,
-    "name": "caise"
-  },
-  {
-    "categoryid": 3,
-    "name": "capsuni"
-  },
-  {
-    "categoryid": 3,
-    "name": "cirese"
-  },
-   {
-    "categoryid": 3,
-    "name": "gutui"
-  },
-  {
-    "categoryid": 3,
-    "name": "kiwi"
-  },
-  {
-    "categoryid": 3,
-    "name": "mandarine"
-  },
-   {
-    "categoryid": 3,
-    "name": "mere"
-  },
-  {
-    "categoryid": 3,
-    "name": "mure"
-  },
-  {
-    "categoryid": 3,
-    "name": "pepene"
-  },
-   {
-    "categoryid": 3,
-    "name": "piersici"
-  },
-  {
-    "categoryid": 3,
-    "name": "pere"
-  },
-  {
-    "categoryid": 3,
-    "name": "struguri"
-  },
-   {
-    "categoryid": 3,
-    "name": "zmeura"
-  }
-   
+  {"categoryid": 1,"name": "pui"},
+  {"categoryid": 1,"name": "porc"},
+  {"categoryid": 1,"name": "miel"},
+  {"categoryid": 1,"name": "vita"},
+  {"categoryid": 2,"name": "cartofi"},
+  {"categoryid": 2,"name": "rosii"},
+  {"categoryid": 2,"name": "castraveti"},
+  {"categoryid": 2,"name": "broccoli"},
+  {"categoryid": 2,"name": "conopida"},
+  {"categoryid": 2,"name": "salata"},
+  {"categoryid": 2,"name": "varza"},
+  {"categoryid": 2,"name": "ardei"},
+  {"categoryid": 2,"name": "vinete"},
+  {"categoryid": 2,"name": "fasole"},
+  {"categoryid": 2,"name": "mazare"},
+  {"categoryid": 2,"name": "ceapa"},
+  {"categoryid": 2,"name": "telina"},
+  {"categoryid": 2,"name": "usturoi"},
+  {"categoryid": 2,"name": "morcov"},
+  {"categoryid": 2,"name": "ridiche"},
+  {"categoryid": 2,"name": "marar"},
+  {"categoryid": 2,"name": "patrunjel"},
+  {"categoryid": 2,"name": "leustean"},
+  {"categoryid": 3,"name": "ananas"},
+  {"categoryid": 3,"name": "afine"},
+  {"categoryid": 3,"name": "banane"},
+  {"categoryid": 3,"name": "caise"},
+  {"categoryid": 3,"name": "capsuni"},
+  {"categoryid": 3,"name": "cirese"},
+  {"categoryid": 3,"name": "gutui"},
+  {"categoryid": 3,"name": "kiwi"},
+  {"categoryid": 3,"name": "mandarine"},
+  {"categoryid": 3,"name": "mere"},
+  {"categoryid": 3,"name": "mure"},
+  {"categoryid": 3,"name": "pepene"},
+  {"categoryid": 3,"name": "piersici"},
+  {"categoryid": 3,"name": "pere"},
+  {"categoryid": 3,"name": "struguri"},
+  {"categoryid": 3,"name": "zmeura"}
 ]
